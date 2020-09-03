@@ -3,7 +3,7 @@ Dockerized global chat application, anyone can access, can be best for unrestric
 
 #Install make in your machine.
 
-#To install application - male install
+#To install application - make install
 
 #To start application - make run
 
